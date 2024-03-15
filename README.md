@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 15-03-2024
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -21,14 +21,14 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-![Screenshot 2024-03-13 190227](https://github.com/04Varsha/simplewebserver/assets/149035374/00119c98-6970-4a38-9574-aaa765920d39)
+![Screenshot 2024-03-15 162653](https://github.com/04Varsha/simplewebserver/assets/149035374/cbb4d450-f79b-4aa6-9de4-b2f8ddbbaed1)
 
 
 ## OUTPUT:
-![Screenshot 2024-03-13 190345](https://github.com/04Varsha/simplewebserver/assets/149035374/fda6c2dc-8696-427e-8f25-d45dc0e5ab00)
 
+![Screenshot 2024-03-15 160820](https://github.com/04Varsha/simplewebserver/assets/149035374/71e47b3e-f08b-4606-b750-7fbd0b756131)
 
-![Screenshot 2024-03-13 190443](https://github.com/04Varsha/simplewebserver/assets/149035374/8af3ac87-abc6-44e2-b0f2-2f451f2dfb5f)
+![Screenshot 2024-03-15 161027](https://github.com/04Varsha/simplewebserver/assets/149035374/d2a0ac3c-0e80-4170-b4ca-5f46b146e9ab)
 
 
 ## RESULT:
